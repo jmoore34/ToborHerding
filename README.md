@@ -14,6 +14,8 @@ Title screen image by [OmegaPy](https://www.reddit.com/r/utdallas/comments/e6ssc
 
 The objective of the game is to herd all the other Tobors (UTD delivery robots) into the parking garage as quickly as possible.
 
+Source code is available at https://github.com/jmoore34/ToborHerding-Unity.
+
 # Screenshots
 ![Screenshot 1](https://github.com/v-patel/CS4361-Project/raw/main/Screenshots/field.png)
 ![Screenshot 2](https://github.com/v-patel/CS4361-Project/raw/main/Screenshots/wireframe.png)
